@@ -66,4 +66,3 @@ function getStorage() {
 }
 
 getStorage()
-// recall main function
