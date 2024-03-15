@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- style -->
+		<link rel="stylesheet" href="style.css" />
+		<!-- font family -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,700;0,800;1,400;1,800&display=swap"
+			rel="stylesheet"
+		/>
+		<!-- title icon -->
+		<link rel="icon" href="images/icon.png" />
+		<!-- title -->
+		<title>TO - DO</title>
+	</head>
+	<body>
+		<div class="main-container">
+			<div class="container">
+				<!-- header -->
+				<h1>To-Do List <img src="images/icon.png" alt="To-Do" /></h1>
+				<!-- input field -->
+				<div class="input-field">
+					<input type="text" placeholder="To-Do ?" class="input-holder" />
+					<button class="button" onclick="myList()">Add</button>
+				</div>
+                <!-- list content -->
+				<div class="list-content">
+                    <!-- ordered list -->
+					<ul class="ordered-list">
+					</ul>
+				</div>
+				<div class="bin">
+					<button class="check">Check All</button>
+					<button class="delete">Delete All</button>
+				</div>
+			</div>
+		</div>
+        <script src="script.js"></script>
+	</body>
+</html>
