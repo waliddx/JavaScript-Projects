@@ -1,0 +1,32 @@
+[
+	{
+		"question": "What was the primary cause of the French Revolution in 1789?",
+		"answers": [
+			"Economic instability",
+			"Monarchical absolutism",
+			"Influence of Enlightenment ideas",
+			"Religious conflicts"
+		],
+		"correctAnswerIndex": 2
+	},
+	{
+		"question": "Who was the first President of the United States?",
+		"answers": [
+			"Benjamin Franklin",
+			"George Washington",
+			"Thomas Jefferson",
+			"John Adams"
+		],
+		"correctAnswerIndex": 1
+	},
+	{
+		"question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+		"answers": [
+			"Harper Lee",
+			"Mark Twain",
+			"F. Scott Fitzgerald",
+			"John Steinbeck"
+		],
+		"correctAnswerIndex": 0
+	}
+]
