@@ -17,9 +17,3 @@ This is a simple To-Do list web application built by using HTML, CSS, and JavaSc
 - **CSS:** Used for styling the HTML elements and making the web page visually appealing.
 
 - **JavaScript:** Used for adding interactivity to the web page, handling user actions, and managing the To-Do list functionality.
-
-## more . . !
-
-you can check about my javacript projects by clicking on the link down below:
-
-https://github.com/waliddx/JavaScript-Projects
